@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PATTNAIKABHINANDAN/portfolio2/static/css/main.2e68c216.css",
+    "main.js": "/PATTNAIKABHINANDAN/portfolio2/static/js/main.1a531a67.js",
+    "static/media/bannerImg.png": "/PATTNAIKABHINANDAN/portfolio2/static/media/bannerImg.08358ffc7f27691c4425.png",
+    "static/media/contactImg.png": "/PATTNAIKABHINANDAN/portfolio2/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/logo.jpg": "/PATTNAIKABHINANDAN/portfolio2/static/media/logo.7b359d27790a1b1acd22.jpg",
+    "static/media/testimonialOne.png": "/PATTNAIKABHINANDAN/portfolio2/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/projectThree.jpeg": "/PATTNAIKABHINANDAN/portfolio2/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/testimonialTwo.png": "/PATTNAIKABHINANDAN/portfolio2/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectTwo.jpg": "/PATTNAIKABHINANDAN/portfolio2/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "index.html": "/PATTNAIKABHINANDAN/portfolio2/index.html",
+    "main.2e68c216.css.map": "/PATTNAIKABHINANDAN/portfolio2/static/css/main.2e68c216.css.map",
+    "main.1a531a67.js.map": "/PATTNAIKABHINANDAN/portfolio2/static/js/main.1a531a67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e68c216.css",
+    "static/js/main.1a531a67.js"
+  ]
+}
