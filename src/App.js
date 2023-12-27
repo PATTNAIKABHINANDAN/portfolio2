@@ -6,6 +6,7 @@ import Features from './components/features/Features.js';
 import Project from './components/projects/Project.js';
 import Resume from './components/resume/Resume.js';
 import Contact from './components/contact/Contact.js';
+import Footer from './components/footer/Footer.js';
 
 function App() {
   return (
@@ -16,7 +17,8 @@ function App() {
           <Features/>
           <Project/>
           <Resume/>
-         <Contact/> 
+          <Contact/>
+          <Footer/>
         </div>
     </div>
   );
